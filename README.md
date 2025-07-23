@@ -10,7 +10,6 @@
 - 👀 I’m interested in technology, coding, and building innovative projects.
 - 🌱 I’m currently a 4rt-year BTech student, exploring areas like [machine learning, web development].
 - 💞️ I’m looking to collaborate on projects that involve [data science, app development, open-source contributions].
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sapna-kumari-7587b5277/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading books and dancing.
 ## 🛠️ Tech Stack
