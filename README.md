@@ -2,9 +2,11 @@
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sapna-kumari-7587b5277/)
+  [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:2022pcecssapna140@poornima.org)
   [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/2022pcecssapna11)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Sapna_Kumari08/)
-  
+
+## 🚀 Aspiring Software Developer
 - 👀 I’m interested in technology, coding, and building innovative projects.
 - 🌱 I’m currently a 4rt-year BTech student, exploring areas like [machine learning, web development].
 - 💞️ I’m looking to collaborate on projects that involve [data science, app development, open-source contributions].
