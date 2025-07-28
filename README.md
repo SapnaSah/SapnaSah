@@ -26,6 +26,12 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F6C?logo=python)
 
+### 📊 GitHub Profile Insights
+
+(![Profile Views](https://komarev.com/ghpvc/?username=SapnaSah&color=blue)
+
+isko apne readme me niche add kr dogi toh profile view dikhne lgege sayad)
+
 <!---
 SapnaSah/SapnaSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
