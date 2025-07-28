@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Profile Insights
 
-(![Profile Views](https://komarev.com/ghpvc/?username=SapnaSah&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SapnaSah&color=blue)
 
 isko apne readme me niche add kr dogi toh profile view dikhne lgege sayad)
 
