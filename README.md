@@ -30,6 +30,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SapnaSah&color=blue)
 ![Followers](https://img.shields.io/github/followers/SapnaSah?tab=followers&style=social)
+![Stars](https://img.shields.io/github/stars/SapnaSah?tab=stars&style=social)
 
 
 isko apne readme me niche add kr dogi toh profile view dikhne lgege sayad)
