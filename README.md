@@ -29,7 +29,7 @@
 ### 📊 GitHub Profile Insights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SapnaSah&color=blue)
-![Followers](https://img.shields.io/github/followers/https://github.com/SapnaSah?tab=followers)
+![Followers](https://img.shields.io/github/followers/SapnaSah?tab=followers&style=social)
 
 
 isko apne readme me niche add kr dogi toh profile view dikhne lgege sayad)
